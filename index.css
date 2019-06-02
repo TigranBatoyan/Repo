@@ -39,3 +39,7 @@ p{
     color:red;
     font-size: 30px
 }
+body{
+    background: url('menu.jpg') no-repeat;
+    background-size: cover
+}
