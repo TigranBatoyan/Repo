@@ -33,7 +33,9 @@ h1{
 }
 p{
     font-size: 30px;
-    color:red
+    color:red;
+    margin:0;
+    padding: 0
 }
 #menu{
     color:red;
