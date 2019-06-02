@@ -1,7 +1,4 @@
-alert(document.getElementById('menu').innerHTML)
-    var li=document.getElementsByTagName('li')
-    for(var n=0;n<li.length;n++){
-        li[n].addEventListener('click',function(){
-            alert(this.innerHTML)
-        })
-    }
+alert('Hello')
+function f1(){
+    alert('I have been clicked')
+}
