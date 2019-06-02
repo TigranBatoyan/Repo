@@ -32,16 +32,16 @@ h1{
     padding-top:80px
 }
 p{
-    font-size: 30px;
-    color:red;
+    font-size: 40px;
+    color:blue;
     margin:0;
     padding: 0;
     margin-bottom: 20px
 
 }
 #menu{
-    color:red;
-    font-size: 30px
+    color:blue;
+    font-size: 40px
 }
 body{
     background: url('menu.jpg') no-repeat;
