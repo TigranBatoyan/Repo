@@ -22,3 +22,10 @@ h1{
     margin:2% auto;
     text-align: center
 }
+body{
+    float:left
+}
+p{
+    font-size: 30px;
+    color:red
+}
