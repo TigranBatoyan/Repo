@@ -1,5 +1,7 @@
 alert('Hello')
-function f1(e){
-    var val=e.target.value
-    alert( val+'has been clicked')
-}
+    var li=document.getElementsByTagName('li')
+    for(var n=0;n<li.length;n++){
+        li[n].addEventListener('click',function(){
+            alert(this.innerHTML)
+        })
+    }
