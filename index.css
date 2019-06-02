@@ -34,8 +34,9 @@ h1{
 p{
     font-size: 30px;
     color:red;
-    margin:0;
-    padding: 0
+    padding: 0;
+    margin-bottom: 20px
+
 }
 #menu{
     color:red;
