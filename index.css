@@ -23,7 +23,8 @@ h1{
     text-align: center
 }
 .body{
-    float:left
+    float:left;
+    width:400px
 }
 p{
     font-size: 30px;
