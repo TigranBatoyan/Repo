@@ -5,14 +5,14 @@ header{
     width:400px;
     text-align: center
 }
-.img1{
+#img1{
     width:120px;
     height:100px;
     position:absolute;
     right:10px;
     top:5px
 }
-.img2{
+#img2{
     width:120px;
     height:100px;
 }
