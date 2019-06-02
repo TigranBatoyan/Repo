@@ -1,4 +1,4 @@
 alert('Hello')
-function f1(){
-    alert('I have been clicked')
+function f1(n){
+    alert(n+ " " + 'have been clicked')
 }
