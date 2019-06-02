@@ -19,7 +19,7 @@ header{
 li{
     text-decoration: underline;
     font-size: 30px;
-    margin-bottom: 80px
+    margin-bottom: 90px
 }
 h1{
     width:400px;
@@ -29,7 +29,7 @@ h1{
 .body{
     float:left;
     width:400px;
-    padding-top:90px
+    padding-top:80px
 }
 p{
     font-size: 30px;
