@@ -13,13 +13,14 @@ header{
     top:5px
 }
 #img2{
-    width:120px;
+    width:180px;
     height:100px;
+    margin:10px
 }
 li{
     text-decoration: underline;
     font-size: 30px;
-    margin-bottom: 90px
+    margin-bottom: 1100px
 }
 h1{
     width:400px;
