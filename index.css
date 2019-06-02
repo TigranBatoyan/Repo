@@ -20,12 +20,14 @@ header{
 li{
     text-decoration: underline;
     font-size: 30px;
-    margin-bottom: 110px
+    margin-bottom: 110px;
+    color: green
 }
 h1{
     width:400px;
     margin:2% auto;
-    text-align: center
+    text-align: center;
+    color: green
 }
 .body{
     float:left;
