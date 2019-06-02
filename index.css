@@ -12,3 +12,7 @@ img{
     right:10px;
     top:5px
 }
+li{
+    text-decoration: underline;
+    font-size: 30px
+}
