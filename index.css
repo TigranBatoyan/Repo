@@ -28,7 +28,8 @@ h1{
 }
 .body{
     float:left;
-    width:400px
+    width:400px;
+    padding-top:80px
 }
 p{
     font-size: 30px;
