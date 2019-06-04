@@ -24,7 +24,7 @@ li{
     cursor:pointer
 }
 li:hover{
-    background: orange
+    color: orange
 }
 h1{
     width:400px;
