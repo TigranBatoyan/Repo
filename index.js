@@ -1,4 +1,4 @@
-alert('Hello')
-function f1(n){
-    alert(n+ " " + 'have been clicked')
-}
+alert('hello')
+const f1 = (n) =>{
+	alert(n+ " " + 'have been clicked')
+}  
