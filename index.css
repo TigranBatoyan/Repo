@@ -21,7 +21,9 @@ li{
     text-decoration: underline;
     font-size: 30px;
     margin-bottom: 110px;
+    cursor:pointer
 }
+
 h1{
     width:400px;
     margin:2% auto;
