@@ -23,7 +23,9 @@ li{
     margin-bottom: 110px;
     cursor:pointer
 }
-
+li:hover{
+    background: orange
+}
 h1{
     width:400px;
     margin:2% auto;
